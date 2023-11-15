@@ -1,0 +1,6 @@
+The oneline F Distribution Tables:
+http://socr.ucla.edu/Applets.dir/F_Table.html
+
+
+The online p-Value Calculator for an F-Test:
+https://www.danielsoper.com/statcalc/calculator.aspx?id=7
